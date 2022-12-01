@@ -7,4 +7,12 @@
 
 # Программа запускается командой /start
 
-![Стартовый экран](https://github.com/EvgenyBusleiko/Chatbot_with_API/blob/main/start.jpg)
+![Стартовый экран](https://github.com/EvgenyBusleiko/Bot_with_API/blob/main/start.jpg)
+
+# По команде /wiki + запрос бот выдаст вольную ассоциацию на тему запроса 
+
+![Стартовый экран](https://github.com/EvgenyBusleiko/Bot_with_API/blob/main/wiki.jpg)
+
+# По команде /weather + название города по-английски бот выдаст температуру и погоду в городе 
+
+![Стартовый экран](https://github.com/EvgenyBusleiko/Bot_with_API/blob/main/weather.jpg)
